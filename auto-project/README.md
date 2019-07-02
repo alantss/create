@@ -1,9 +1,8 @@
-Inspired by Kalle Hallden's 'One Day Builds: Automating My Projects With Python', here is my implementation of his project.
+Inspired by Kalle Hallden's 'One Day Builds: Automating My Projects With Python', here is my implementation of his project. Currently this project is only functional on Windows machines.
 
 <h2>Requirements</h2>
-- Python 2.7.X
+- Python 2.7
 <br>- Visual Studio Code
-<br>- Windows Machine >:)
 
 <h2>What YOU Need To...</h2>
 1. Complete the 'config.json' file with the required fields. When providing the project directory please use the following format: C:\\Users\\name\\documents\\github_projects
