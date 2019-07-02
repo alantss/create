@@ -1,0 +1,10 @@
+{
+    "defaults": {
+        "project_path": "",
+        "private_repo": true
+    },
+    "github": {
+        "username": "",
+        "password": ""
+    }
+}
