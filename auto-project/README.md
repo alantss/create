@@ -15,5 +15,5 @@ This script, when implemented correctly, will allow the user to create a new pro
 
 <h2>What I Learnt?</h2>
 - Working with batch (.bat) files.
-- Reaffirmed Python skills.
-- How to create beautiful a README file. :blush:
+<br>- Reaffirmed Python skills.
+<br>- How to create beautiful a README file. :blush:
